@@ -1,0 +1,23 @@
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
+*~
+
+# CTF artifacts (keep the repo to notes only — don't commit dumps/captures/binaries)
+*.pcap
+*.pcapng
+*.mem
+*.raw
+*.dmp
+*.bin
+*.exe
+*.dll
+*.zip
+*.tar.gz
+loot/
