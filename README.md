@@ -82,6 +82,7 @@ Walkthroughs mapped to the modules of the learning path.
 | [Lo-Fi](CTFs/lo-fi.md) | Web / LFI & path traversal |
 | [MD2PDF](CTFs/md2pdf.md) | Web / SSRF via HTML-to-PDF converter |
 | [Neighbour](CTFs/neighbour.md) | Web / IDOR-style exploitation |
+| [Overheard at Breakfast](CTFs/overheard-at-breakfast.md) | OSINT / Gravatar email pivot & Base64 decoding |
 | [Room 404 (Concierge Briefing)](CTFs/room404.md) | Web enumeration challenge |
 | [Takeover](CTFs/takeover.md) | Subdomain takeover |
 
@@ -108,7 +109,7 @@ Walkthroughs mapped to the modules of the learning path.
 
 Nmap · Metasploit · Meterpreter · Burp Suite · SQLMap · Gobuster · Hydra ·
 Reverse/Bind/Web shells · Command injection · Wireshark · Snort · OpenVAS ·
-CyberChef · Volatility · FLARE VM · INetSim · oledump · Git
+CyberChef · Volatility · FLARE VM · INetSim · oledump · Git · OSINT (Gravatar)
 
 ---
 
